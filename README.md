@@ -5,22 +5,12 @@ Built in React, PHP and SQLite
 
 ## Install
 ```
-$ git clone https://github.com/deinnielle/images.git
-$ cd images
 $ npm install
+$ npm start
 $ cd src
 $ php -S localhost:1111
-$ cd images
-$ npm start
 ```
 
 ## Testers
 * [Bernhard Stedt](https://github.com/Vehx)
 * [Marcus Augustsson](https://github.com/MarcusIsCode)
-
-## Code Review
-TBD
-
-## License
-This project is licensed under the MIT License - see the <a href="https://github.com/deinnielle/plain-news/LICENSE">License 
-file</a> for more details
